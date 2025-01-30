@@ -1,0 +1,3 @@
+This was practice using Github for CS 322, Intro to Software Engineering.
+
+Not much to see here ...
